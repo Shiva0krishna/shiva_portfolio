@@ -23,10 +23,10 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I have keen intrest in problem solving and I always strive for innovative and  optimistic path.<br />
+              I have keen interest in problem solving and I always strive for innovative and  optimistic path.<br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript Node </b>
+                <b className="purple"> C, C++, Javascript, Node </b>
               </i>
               <br />
               <br />
@@ -37,7 +37,7 @@ function Home2() {
               <br />
               <br />
               I field of intrest also includes database management systems and i use software like  
-              <b className="purple">Mysql</b> for reaching the desired outcome. 
+              <b className="purple"> Mysql</b> for reaching the desired outcome. 
             </p>
           </Col>
           <Col md={4} className="myAvtar">
