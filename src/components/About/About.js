@@ -5,6 +5,7 @@ import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
+import Leetcode from "./Leetcode";
 
 function About() {
   return (
@@ -44,6 +45,7 @@ function About() {
         <Toolstack />
 
         <Github />
+        <Leetcode/>
       </Container>
     </Container>
   );

@@ -23,21 +23,21 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I have keen interest in problem solving and I always strive for innovative and  optimistic path.<br />
-              <br />I am fluent in classics like
+              I am a programmer  and problem solver with a background in computer science, seeking new opportunities to leverage my skills and
+expertise, experience a steep learning curve, and contribute to the organization’s growth while pursuing personal and professional development.<br/>
+              <br />I have keen understanding in
               <i>
-                <b className="purple"> C, C++, Javascript, Node </b>
+                <b className="purple"> C, C++, database management systems, Data structures and algorithms.  </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interest's are developing solutions as form of  &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b>
+                <b className="purple"> Software Application</b>
               </i>
               <br />
               <br />
-              I field of intrest also includes database management systems and i use software like  
-              <b className="purple"> Mysql</b> for reaching the desired outcome. 
+              
             </p>
           </Col>
           <Col md={4} className="myAvtar">

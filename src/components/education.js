@@ -1,7 +1,7 @@
 import React from 'react'
 import { Card } from 'react-bootstrap'
 import { Container,Row,Col } from 'react-bootstrap'
-import gradelist from  "../Assets/Grade-List.png"
+
 
 function Education() {
   return (
@@ -17,11 +17,11 @@ function Education() {
               paddingBottom: "50px",
             }}
           >
-            <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
+            <h1 style={{ fontSize: "2.1em", paddingBottom: "20px",color:"dodgerblue" }}>
               SRMIST -(09/2022 - present day )
             </h1>
 
-            <Card className="quote-card-view" style={{marginRight:"10%"}}>
+            <Card className="quote-card-view" style={{marginLeft:"20%"}}>
                 <Card.Body>
                     <blockquote className="blockquote">
                         <p style={{ textAlign: "justify" }}>
@@ -48,7 +48,6 @@ function Education() {
             style={{ paddingTop: "120px", paddingBottom: "50px" }}
             className="about-img"
           >
-            <img src={gradelist} alt="about" className="img-fluid" />
           </Col>
         </Row>
             </Container>
